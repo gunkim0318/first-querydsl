@@ -1,10 +1,10 @@
-package dev.gunlog.firstquerydsl;
+package dev.gunlog.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstQuerydslApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
